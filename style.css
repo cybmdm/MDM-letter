@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
   max-width: 800px;
@@ -22,4 +23,30 @@ p,ul,ol,dl,address {
 
 p, li, dd, dt, address {
   line-height: 1.5;
+=======
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.receiver-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+>>>>>>> 93e78758181f5a1f7f921ad18a25f677bd2fd21e
 }
